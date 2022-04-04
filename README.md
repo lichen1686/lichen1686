@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lichen1686
+- 👀 I’m interested in computer science
+- 🌱 I’m currently learning c++ project
+- 💞️ I’m looking to collaborate on Google
+- 📫 How to reach me 1174343828@qq.com OR wo1176343828@gmail.com
